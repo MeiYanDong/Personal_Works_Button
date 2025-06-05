@@ -34,7 +34,7 @@ class PortfolioButton extends HTMLElement {
         width: 48px;
         height: 48px;
         border-radius: 50%; /* 圆形按钮 */
-        background: #6a0dad; /* 紫色背景 */
+        background: #B39DDB; /* 统一为新颜色 */
         display: flex;
         align-items: center;
         justify-content: center;
@@ -50,7 +50,7 @@ class PortfolioButton extends HTMLElement {
       }
       
       .portfolio-btn:hover {
-        background: #8a2be2; /* 悬停时紫色更亮 */
+        background: #B39DDB; /* 悬停时同样为新颜色 */
       }
       
       .firework {
